@@ -5,7 +5,7 @@ Inquirer.js
 
 A collection of common interactive command line user interfaces.
 
-![Inquirer Logo](inquirer_small.png)
+![Inquirer Logo](/assets/inquirer_small.png)
 
 ## Goal and philosophy
 
