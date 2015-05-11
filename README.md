@@ -8,7 +8,7 @@ A collection of common interactive command line user interfaces.
 
 ## Goal and philosophy
 
-<img align="right" alt="Inquirer Logo" src="/assets/inquirer_xsmall.png"/>
+<img align="right" alt="Inquirer Logo" src="/assets/inquirer_xsmall.png" title="Inquirer.js" style="padding: 5px"/>
 
 We strive at providing easily embeddable and beautiful command line interface for Node.js; some hope in becoming the CLI Xanadu.
 
